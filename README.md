@@ -1,7 +1,6 @@
 # LoginAutomation-Cucumber-Selenium
 
 ## Project Scenerio:
-- site URL: https://opensource-demo.orangehrmlive.com
 - Login with Invalid Credentials
 - Login with Valid Credentials
 
